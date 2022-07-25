@@ -32,5 +32,6 @@ CD59 [PDB structure](https://www.rcsb.org/structure/1cdr)
 Membrane Lipids:
 
 |Leaflet|Cholesterol|POPE|PSM|
+| --- | --- | --- | --- |
 |upper leaflet|72|74|67|
 |lower leaflet|73|75|68|
