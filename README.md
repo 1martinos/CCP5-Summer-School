@@ -26,7 +26,7 @@ The [Zinc Database](https://zinc.docking.org/)
 
 Our [ligand](https://zinc.docking.org/substances/ZINC000001697961/) on the database
 
-
+[CHARMM-GUI](https://www.charmm-gui.org/)
 
 ### Practical 3: CD59 Glycoprotein 
 
