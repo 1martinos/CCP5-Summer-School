@@ -16,7 +16,7 @@ KTLGRDSDWEIPDGQITVGQRIGSGSFGTVYKGKWHGDVAVKMLNVTAPTPQLQAFKNEVGVLRKTRHVNILFMGYSTKP
 
 
 
-### Practical 2: CDK2 Simulation
+### Practical 2: CDK2-Ligand Complex Simulation
 
 Important files are in the screening-docking folder and the CHARMM-GUI folder
 
@@ -28,7 +28,7 @@ Our [ligand](https://zinc.docking.org/substances/ZINC000001697961/) on the datab
 
 [CHARMM-GUI](https://www.charmm-gui.org/)
 
-### Practical 3: CD59 Glycoprotein 
+### Practical 3: GPI-CD59 in plasma membrane
 
 CD59 [PDB structure](https://www.rcsb.org/structure/1cdr)
 
