@@ -1,4 +1,4 @@
-# CCPBiosim2022
+# CCP5 Summer School 2022
 ## Links
 Installing [PyMol](https://pymol.org/2/).
 
